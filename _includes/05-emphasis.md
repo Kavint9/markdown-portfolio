@@ -1,4 +1,4 @@
-* Problem Solver
-* Python Developer
-* ML enthusiast
-* MERN stack acquianted
+**Problem Solver**
+**Python Developer**
+**ML enthusiast**
+__MERN stack acquianted__
